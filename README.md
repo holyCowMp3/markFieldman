@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Привіт! Привет! 👋
 
 - 🔭 I’m currently working on [Solar Control](https://solar-control.tech)
 - 🌱 I’m currently learning as Military Cadet
