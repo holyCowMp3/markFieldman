@@ -10,7 +10,7 @@
 
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![consul](https://img.shields.io/badge/-consul%20-C51A4A?style=for-the-badge&logo=consul)
+![consul](https://img.shields.io/badge/-consul%20-%23ffffff?style=for-the-badge&logo=consul)
 ![vault](https://img.shields.io/badge/Vault%20-%23000000.svg?&style=for-the-badge&logo=vault&logoColor=white)
 ![docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -22,10 +22,15 @@
 #### Frameworks:
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
 #### Other:
-![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-<img alt="ODM" src="https://img.shields.io/badge/WebODM%20-%23ffffff.svg?&style=for-the-badge&logo=OpenDroneMap&logoColor=black"/>  <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> 
-![mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![gi-ci](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 ![rpi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/nextcloud%20-%230072C6.svg?&style=for-the-badge&logo=nextcloud&logoColor=white"/>
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/nextcloud%20-%230072C6.svg?&style=for-the-badge&logo=nextcloud&logoColor=white"/>
+![gi-ci](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+ <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> 
+
+
+ <img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/> 
