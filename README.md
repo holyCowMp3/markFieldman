@@ -14,7 +14,7 @@
 ![vault](https://img.shields.io/badge/Vault%20-%23000000.svg?&style=for-the-badge&logo=vault&logoColor=white)
 ![docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=macos&logoColor=white)
+![macos](https://img.shields.io/badge/macos-E95420?style=for-the-badge&logo=macos&logoColor=black)
 
 ### What I worked with:
 #### Languages: 
