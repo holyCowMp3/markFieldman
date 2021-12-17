@@ -1,10 +1,9 @@
-### Hello! Привіт! Привет! 👋
+### Happy New Year! 🥳
 
 - 🇺🇦 I’m from Ukraine, Kyiv
-- 🔭 I’m currently working on [Solar Control](https://solar-control.tech)
 - 👯 I’m looking to collaborate on Alternative Energy Opensource Solutions
-- 💬 Ask me about Java, Solar systems, and MIP programme
-- 📫 How to reach me: [cto@solar-control.tech](mailto:cto@solar-control.tech) [dmytro.teslov@aidi.solar](mailto:dmytro.teslov@aidi.solar)
+- 💬 Ask me about Java, Solar systems
+- 📫 How to reach me: [dmytro.teslov@aidi.solar](mailto:dmytro.teslov@aidi.solar)
 
 ### My main tools:
 
