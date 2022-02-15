@@ -1,4 +1,4 @@
-### Happy New Year! 🥳
+### Stay calm - stay strong! 🥳
 
 - 🇺🇦 I’m from Ukraine, Kyiv
 - 👯 I’m looking to collaborate on Alternative Energy Opensource Solutions
