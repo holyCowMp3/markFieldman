@@ -1,3 +1,5 @@
+![Russian ship - fuck you](https://github.com/pivovarit/pivovarit/raw/master/ukraine.svg)
+
 ### Stay calm - stay strong!
 
 - 🇺🇦 I’m from Ukraine, Kyiv
